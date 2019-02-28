@@ -1,0 +1,71 @@
+body{
+	background-image: url('http://saigonenglishcenter.edu.vn/wp-content/uploads/2018/01/writing.jpg');
+	height: auto;
+
+}
+.dangky{
+	padding: 240px;
+	padding-top: 10px;
+	margin: 15px;}
+	
+.row1{
+	background-color: white;
+	width: 800px;
+	-webkit-border-radius:5px;
+	 box-shadow: 0 0 10px orangered;
+}
+.row2{
+	background-color: white;
+	width: 800px;
+	-webkit-border-radius:5px;
+	 box-shadow: 0 0 10px orangered;
+}
+.row3{
+	background-color: white;
+	width: 800px;
+	-webkit-border-radius:5px;
+	 box-shadow: 0 0 10px orangered;
+}
+.row4{
+	background-color: white;
+	width: 800px;
+	-webkit-border-radius:5px;
+	 box-shadow: 0 0 10px orangered;
+}
+h3 {
+	color: orangered;
+	text-shadow: 5px 2px 4px black;
+     font-weight: bold;
+
+}
+h1{
+	color: orangered;
+	text-shadow: 5px 2px 4px black;
+     font-weight: bold;
+     font-size: 70px;
+     text-align: center;
+}
+a{
+	text-decoration: none;
+}
+
+#menu li {
+  color: #f1f1f1;
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+  line-height: 20px;
+  margin-left: -5px;
+  margin-right: 15px;
+  font-weight: bold;
+}
+#menu a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+#menu a:hover {
+  background: yellow;
+  color: orangered;
+  font-variant: small-caps;
+}

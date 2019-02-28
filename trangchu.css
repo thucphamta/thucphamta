@@ -1,0 +1,47 @@
+.left{
+	float: left;
+
+}
+.right{
+	float: right;
+}
+body{
+	width: 1000px;
+}
+ .row1{
+width: 200px;
+height: 200px;
+border: 1px solid black;
+
+}
+.info{
+	text-align: center;
+}
+ .row1:hover{
+	background-color: yellow;
+}
+.row2{
+	width: 30px;
+
+}
+.xemthem{
+	float:right;
+	font-weight: bold;	
+}
+
+.row3:hover{
+	background-color: yellow;
+	color: red;
+	font-weight: bolder;
+}
+h1{
+	color: orangered;
+
+	
+}
+h5{color: orangered;
+
+}
+h2{
+	color: #999933;
+}
